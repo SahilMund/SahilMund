@@ -2,13 +2,13 @@
 My Github Portfolio
 
 
-### Hi there i am [Sahil Ranjan Mund !](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
+### Hi there i am [Sahil Ranjan Mund !] 👋
 
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
-- 📫 How to reach me: [Linkedin - @SahilMund](https://www.linkedin.com/in/sahil-mund-39ba94171/)]
+- 📫 How to reach me: [Linkedin - @SahilMund](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)]
 - ⚡ Fun fact: I code almost 12 hours everyday
 
 
@@ -39,14 +39,24 @@ My Github Portfolio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
+<div >
+  
 <a href="https://github.com/SahilMund">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/SahilMund">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilMund&show_icons=true&theme=light&line_height=27" alt="Sahil's github stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&hide_langs_below=1" />
 </a>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SahilMund&show_icons=true&hide_border=true" />
+
+</details>
+
+</div>
+
+
+<br>
+</br>
 
 <div align="center">
   
