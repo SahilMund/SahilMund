@@ -9,7 +9,6 @@ My Github Portfolio
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
 - 📫 How to reach me: [Linkedin - @SahilMund](https://www.linkedin.com/in/sahil-mund-39ba94171/)]
-- 😄 Pronouns: Hi/His
 - ⚡ Fun fact: I code almost 12 hours everyday
 
 
