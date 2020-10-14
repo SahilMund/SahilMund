@@ -39,20 +39,20 @@ My Github Portfolio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
-<div >
+
   
 <a href="https://github.com/SahilMund">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&hide_langs_below=1" />
 </a>
-
-<details>
+<br>
+<details align="center">
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SahilMund&show_icons=true&hide_border=true" />
+  <img align="center" alt="Sahil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SahilMund&show_icons=true&hide_border=true" />
 
 </details>
 
-</div>
+
 
 
 <br>
