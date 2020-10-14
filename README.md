@@ -1,8 +1,9 @@
-# Stats
-My Github Portfolio
+
+## My Github Portfolio 
 
 
-### Hi there i am [Sahil Ranjan Mund !] 👋
+
+### Hi there i am Sahil Ranjan Mund ! 👋
 
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on GitHub
