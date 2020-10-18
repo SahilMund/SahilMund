@@ -15,14 +15,14 @@
 
 
 
-### Connect with me:
+## :mailbox: How to reach me : 
 
-<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br />
-
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
 
 ### Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -59,6 +59,7 @@
 
 <br>
 </br>
+
 
 <div align="center">
   
