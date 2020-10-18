@@ -1,20 +1,21 @@
 
 ## My Github Portfolio 
  
-
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Hi there i am Sahil Ranjan Mund ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning Django
-- I'm a 🚀 developer 
-- I ❤️ to code 
+- I'm a 🚀 developer  
+- I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
 - 📫 How to reach me: [Linkedin - @SahilMund](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)]
 
-
-
+<br>
+  
 ## :mailbox: How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
@@ -41,7 +42,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 
 
   
@@ -63,6 +65,5 @@
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
-
+### Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
