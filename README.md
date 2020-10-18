@@ -1,16 +1,18 @@
 
 ## My Github Portfolio 
-
+ 
 
 
 ### Hi there i am Sahil Ranjan Mund ! 👋
 
 - 🌱 I’m currently learning Django
+- I'm a 🚀 developer 
+- I ❤️ to code 
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
 - 📫 How to reach me: [Linkedin - @SahilMund](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)]
-- ⚡ Fun fact: I code almost 12 hours everyday
+
 
 
 ### Connect with me:
