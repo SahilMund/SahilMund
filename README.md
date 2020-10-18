@@ -13,18 +13,18 @@
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
-- 📫 How to reach me: [Linkedin - @SahilMund](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)]
+- My Portfolio 
 
 <br>
-  
-## :mailbox: How to reach me : 
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
+## :mailbox: How to reach me : SahilMund
+
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:msahilranjan@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/SahilMund/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/sahil_mund/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/_sahil_ranjan_/)
+
 
 ### Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
