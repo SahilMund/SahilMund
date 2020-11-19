@@ -56,10 +56,12 @@
 <br>
 
 
-  <img align="center" alt="Sahil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SahilMund&show_icons=true&hide_border=true" />
 
+<div align="center">
+  
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahilMund&show_icons=true&theme=tokyonight)
 
-
+</div>
 
 
 <br>
