@@ -49,7 +49,7 @@
 
 
 <a href="https://github.com/SahilMund">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=8" />
 </a>
 <br>
 
