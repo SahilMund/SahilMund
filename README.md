@@ -48,9 +48,9 @@
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/SahilMund">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=" />
+</a>
 <br>
 
 
