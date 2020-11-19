@@ -47,7 +47,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
 
-
+<div>
 <a href="https://github.com/SahilMund">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=8" />
 </a>
@@ -64,7 +64,7 @@
 
 <br>
 </br>
-
+</div>
 
 <div align="center">
   
