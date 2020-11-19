@@ -49,10 +49,8 @@
 
 
 
-  
-<a href="https://github.com/SahilMund">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&hide_langs_below=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 
