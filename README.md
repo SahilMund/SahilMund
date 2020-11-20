@@ -7,13 +7,13 @@
 
 ### Hi there i am [Sahil Ranjan Mund !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 I’m currently learning Django
-- I'm a 🚀 developer  
+- 🌱 I’m currently learning Django 
+- :v: Django - The D silencer :stuck_out_tongue_winking_eye:  
+- :relaxed: I'm a 🚀 developer 
 - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
-
 
 <br>
 
@@ -46,6 +46,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="25" height="25" />
 
 <div>
 <a href="https://github.com/SahilMund">
