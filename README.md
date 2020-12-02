@@ -8,7 +8,7 @@
 ### Hi there i am [Sahil Ranjan Mund !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning Django 
-- :v: Django - The D silencer :stuck_out_tongue_winking_eye:  
+- :v: Django - With the Silenece D :stuck_out_tongue_winking_eye:  
 - :relaxed: I'm a 🚀 developer 
 - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 - 👯 I’m looking to collaborate on GitHub
@@ -50,7 +50,7 @@
 
 <div>
 <a href="https://github.com/SahilMund">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=8" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=5" />
 </a>
 <br>
 
