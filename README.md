@@ -1,11 +1,11 @@
-<img align="left" width="80" height="80" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png">
+<img align="left" width="80" height="80"  src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif">
 
 ## Welcome to  Github Portfolio 
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-### Hi there i am [Sahil Ranjan Mund !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I am [Sahil Ranjan Mund !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 Learning Mode ON :stuck_out_tongue_winking_eye: 
 -  Software Engineer   :v:
@@ -25,6 +25,7 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/sahil_mund/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/_sahil_ranjan_/)
 
+[![Repos Badge](https://badges.pufler.dev/repos/SahilMund?logo=github)](https://github.com/SahilMund?tab=repositories)
 
 ### Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -49,28 +50,35 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
 
-
+### :zap: GitHub Stats
 <div>
 <a href="https://github.com/SahilMund">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&theme=light&langs_count=5" />
 </a>
 <br>
 
-
-
 <div align="center">
-  
+ 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahilMund&show_icons=true&theme=tokyonight)
-
+ 
 </div>
-
-
 <br>
 </br>
 </div>
+
+<p align="center">&nbsp;
+
+<img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMund&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilMund&theme=dracula" />
+</p>
+
+![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilMund&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
 
 <div align="center">
  <br>
   
 ### Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
+
+<img height="100%" alt="Bottom" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
