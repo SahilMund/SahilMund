@@ -1,6 +1,6 @@
 <img align="left" width="80" height="80"  src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif">
 
-## Welcome to  Github Portfolio 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EE25F7&width=435&lines=Welcome+to+My+Github)](https://git.io/typing-svg)
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -73,8 +73,8 @@
   <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilMund&theme=dracula" />
 </p>
 
-![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilMund&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 <div align="center">
  <br>
