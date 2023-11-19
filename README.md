@@ -73,11 +73,6 @@
   <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilMund&theme=dracula" />
 </p>
 
-## Today's Quote :-
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 <div align="center">
  <br>
