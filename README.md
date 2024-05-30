@@ -10,10 +10,9 @@
 
 - 🌱 Learning Mode ON :stuck_out_tongue_winking_eye: 
 -  Software Engineer   :v:
-- :relaxed: I'm a 🚀 developer 
+- :relaxed: I'm a developer 🚀
 - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with Django
 - 💬 Ask me about Web dev related stuff's
 
 <br>
