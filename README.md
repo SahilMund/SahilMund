@@ -22,7 +22,6 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:msahilranjan@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/SahilMund/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/sahil_mund/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/_sahil_ranjan_/)
 
 [![Repos Badge](https://badges.pufler.dev/repos/SahilMund?logo=github)](https://github.com/SahilMund?tab=repositories)
