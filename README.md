@@ -1,7 +1,7 @@
-<img align="left" width="80" height="80"  src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif">
-
+ <img align="left" width="80" height="80"  src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif"> 
+<!--
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EE25F7&width=435&lines=Welcome+to+My+Github)](https://git.io/typing-svg)
-
+-->
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -23,8 +23,6 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/SahilMund/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/_sahil_ranjan_/)
-
-[![Repos Badge](https://badges.pufler.dev/repos/SahilMund?logo=github)](https://github.com/SahilMund?tab=repositories)
 
 ### Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
