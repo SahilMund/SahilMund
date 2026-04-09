@@ -48,17 +48,11 @@
 ---
 
 ### ⚡ GitHub Stats
-<div>
-  <a href="https://github.com/SahilMund">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMund&layout=compact&theme=tokyonight&langs_count=6" />
-  </a>
-</div>
+
 
 <div align="center">
   
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilMund&show_icons=true&theme=tokyonight)
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMund&theme=radical&hide_border=true"/>
+<!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMund&theme=radical&hide_border=true"/> -->
 
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilMund&theme=dracula"/>
 </div>
@@ -70,9 +64,9 @@
 - Exploring **cloud-native deployments** with **Docker & AWS**  
 - Optimizing **frontend performance** and **backend scalability**  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-</p>
+</p> -->
 
 ---
 
